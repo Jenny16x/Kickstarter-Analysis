@@ -3,7 +3,7 @@
 <img src="./resources/images/kickstarter-logo.jpeg" width="1200" height="150">
 
 ## Table of Contents
-- [Analysis of Outcomes Based on Launch Date](https://github.com/Jenny16x/ Kickstarter-Analysis # Analysis-of-Outcomes-Based-on-Launch-Date)
+- [Analysis of Outcomes Based on Launch Date](https://github.com/Jenny16x/Kickstarter-Analysis#Analysis-of-Outcomes-Based-on-Launch-Date)
 
 
 ## Analysis of Outcomes Based on Launch Date
